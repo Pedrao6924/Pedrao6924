@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/C5TW70f.png">
+<img align="left" alt="Coding" width="400" src="https://i.imgur.com/C5TW70f.png">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrao6924&show_icons=true&theme=radical)
 
