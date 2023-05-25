@@ -5,8 +5,7 @@
 <!-- MAIN PHRASE SECTION -->
 <span align="center">
   <span>
-    <h4 align="center">"<em>Si lo puedes imaginar, lo puedes programar</em>"
-      <span align="center">Alejandro Taboada Sanchez</span>
+    <h4 align="center">"<em>Simple solutions for Big ideas.</em>"
     </h4>
 </span>
 
@@ -14,8 +13,8 @@
 <hr>
 <h3 align="center">I love to code, create things, solve problems and take on challenges</h3>
   <ul>
-    <li>🔭 I’m currently working on <strong>Unity 5</strong></li>
-    <li>🌱 I’m currently learning <strong>Spring,Electron,GraphQL,...</strong></li>
+    <li>🔭 I’m currently working on <strong> clients commisions</strong></li>
+    <li>🌱 I’m currently learning <strong>Web development, Unity ...</strong></li>
     <li>📫 How to reach me <strong>alt.pedrohfa@gmail.com</strong></li>
   </ul>
 
