@@ -1,5 +1,5 @@
 
-  ![Welcome to my profile](https://github.com/Pedrao6924/Pedrao6924/blob/main/welcome.jpg?raw=true)
+  ![Welcome to my profile](https://i.imgur.com/9MXz8Zr.png)
 
 <hr>
 <!-- MAIN PHRASE SECTION -->
