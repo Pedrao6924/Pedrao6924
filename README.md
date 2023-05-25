@@ -63,17 +63,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>  
 
-<!-- SUPPORT -->
-<hr>
-<p>
-  <h3 align="center">Support:</h3>
-  <p>
-    <a href="https://www.buymeacoffee.com/josuerv99">
-      <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="josuerv99"/>
-    </a>
-  </p>
-</p>
-   
+
 <!-- GITHUB STATS -->
 <hr>
 <div style="display: block;">
@@ -82,8 +72,8 @@
 <p>
     <a align="left">
       <p><img align="left" 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=josuerv99&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="josuerv99" /></p></a>
-    <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=josuerv99&show_icons=true&theme=dark&locale=en" alt="josuerv99" /></p></a>  
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedrap6924&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="josuerv99" /></p></a>
+    <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Pedrao69&show_icons=true&theme=dark&locale=en" alt="josuerv99" /></p></a>  
   </p>
 </p>
 </div>
@@ -99,8 +89,3 @@
 <br>
 <br>
 <br>
-
------
-Credits: [Josue Rojas Vega](https://github.com/JOSUERV99)
-
-Last Edited on: 23/09/2021
