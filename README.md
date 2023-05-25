@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<img align="right" alt="Coding" width="400" src="[add your link 
-  here](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHwedQmJpdpr3eHNiBJSM_A_i6Mgxa7k_crg&usqp=CAU)">
+<img align="right" alt="Coding" width="400" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHwedQmJpdpr3eHNiBJSM_A_i6Mgxa7k_crg&usqp=CAU]">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrao6924&show_icons=true&theme=radical)
 
